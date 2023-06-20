@@ -1,4 +1,10 @@
 <h1>Haiku Introduction</h1>
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 <p>
 Haiku (俳句) is a type of short form poetry originally from Japan. Traditional Japanese haiku consists of 
 three phrases that contain a <i>kireji</i>, or "cutting word", 17 on (phonetic units similar to syllables) in 
